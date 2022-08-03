@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @MJR-Mu7
-- 👀 I’m interested in Substrate
+- 👋 Hi, I’m Mu7
 - 📫 How to reach me ...  Twitter: @mjr_mu7
 
 <!---
